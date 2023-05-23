@@ -1,0 +1,21 @@
+{
+  "name": "rw/check-nick",
+  "description": "Check Nick Name Game",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "^7.7",
+    "fakerphp/faker": "^1.22"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Rw\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "RootWritter",
+      "email": "iqbal@miecode.com"
+    }
+  ]
+}
