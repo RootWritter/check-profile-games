@@ -9,3 +9,9 @@ Cloning
 ```bash
   git@github.com:RootWritter/check-profile-games.git
 ```
+
+Install Composer
+
+```bash
+  composer require rootwritter/check-nick
+```
