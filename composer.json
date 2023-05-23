@@ -1,5 +1,5 @@
 {
-  "name": "rw/check-nick",
+  "name": "rootwritter/check-nick",
   "description": "Check Nick Name Game",
   "type": "library",
   "require": {
