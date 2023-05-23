@@ -4,6 +4,11 @@
 
 ## List Game
 
+- [x] Mobile Legends
+- [ ] Higgs Domino (Soon)
+
+Request Games ? Contact me
+
 ## Installation
 
 Install my-project with composer or clone this repository
