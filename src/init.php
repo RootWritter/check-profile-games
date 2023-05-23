@@ -1,6 +1,6 @@
 <?php
 
-namespace Rw;
+namespace RootWritter;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;

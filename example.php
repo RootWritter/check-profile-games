@@ -1,7 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
-use Rw\Init;
+use RootWritter\Init;
 
 $check = new Init();
 
