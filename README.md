@@ -15,3 +15,7 @@ Install Composer
 ```bash
   composer require rootwritter/check-nick
 ```
+
+## Support
+
+For support, email rootwritter@aol.com or telegram https://t.me/rootwritter
